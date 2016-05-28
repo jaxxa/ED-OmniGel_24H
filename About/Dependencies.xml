@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModDependencieMetaData>
+  <Dependencies>
+	<Dependency>
+		<DiskName>ED-OmniGel</DiskName>
+		<Description></Description>
+		<Url></Url>
+	</Dependency>
+	<Dependency>
+		<DiskName>ED-Plant24H</DiskName>
+		<Description></Description>
+		<Url></Url>
+	</Dependency>
+  </Dependencies>
+</ModDependencieMetaData>
